@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "General_BNC_PCB_BOARD2_Schematic_Library")(type "KiCad")(uri "${KIPRJMOD}/General_BNC_PCB_BOARD2_Schematic_Library.kicad_sym")(options "")(descr ""))
-  (lib (name "Genera_BNC_Schematic_Library")(type "KiCad")(uri "C:/Users/man_r/OneDrive/Documents/SAMARPREET/KiCad/7.0/projects/General_BNC_PCB/Genera_BNC_Schematic_Library.kicad_sym")(options "")(descr ""))
-)

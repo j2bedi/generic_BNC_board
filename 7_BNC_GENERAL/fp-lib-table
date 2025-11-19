@@ -1,5 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "General_BNC_PCB_BOARD2_Footprint_Library")(type "KiCad")(uri "${KIPRJMOD}/General_BNC_PCB_BOARD2_Footprint_Library.pretty")(options "")(descr "")(disabled))
-  (lib (name "General_BNC_Footprint_Library")(type "KiCad")(uri "C:/Users/man_r/OneDrive/Documents/SAMARPREET/KiCad/7.0/projects/General_BNC_PCB/General_BNC_Footprint_Library.pretty")(options "")(descr "")(disabled))
-)
